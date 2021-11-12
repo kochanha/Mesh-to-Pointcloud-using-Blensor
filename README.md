@@ -3,7 +3,7 @@
 main concept : produced by referring to the data generation part of the [Points2surf](https://github.com/ErlerPhilipp/points2surf)  
 Generating Point Cloud by using Blensor (ToF Simulator)
 
-### 1. 환경 설정
+### 1. Settings
 ```
 git clone https://github.com/kochanha/Mesh-to-Pointcloud-using-Blensor.git
 cd mesh2pc
